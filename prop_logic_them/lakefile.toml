@@ -1,0 +1,10 @@
+name = "prop_logic_them"
+version = "0.1.0"
+defaultTargets = ["prop_logic_them"]
+
+[[lean_lib]]
+name = "PropLogicThem"
+
+[[lean_exe]]
+name = "prop_logic_them"
+root = "Main"
